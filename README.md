@@ -79,4 +79,4 @@ Currently, I am expanding into **Generative AI**, working with **Large Language 
 ---
 [![](https://visitcount.itsvg.in/api?id=johankarkaria&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
